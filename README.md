@@ -4,7 +4,7 @@ Shubo Zhang, Sai Gong, Jinfeng Wang, Ran Yin, Yanru Wang, and Hongqiang Rena
 State Key Laboratory of Pollution Control and Resource Reuse, School of the Environment, Nanjing University, Nanjing 210023, Jiangsu, P.R. China
 Institute for the Environment and Health, Nanjing University Suzhou Campus, Suzhou 215163, China
 
-This library is for “Machine Learning Assisted In-Situ Synthesis of Functional Microbiomes towards Sustainable Wastewater Treatment” data and code. and code. Includes Deep Learning cNODE2 framework, code related to GBRT, and underlying data for the images of the study.We have tested this code for Python 3.8.13 and R 4.3.2.
+This library is for “Machine Learning Assisted In-Situ Synthesis of Functional Microbiomes towards Sustainable Wastewater Treatment” data and code. Includes Deep Learning cNODE2 framework, code related to GBRT, and underlying data for the images of the study.We have tested this code for Python 3.8.13 and R 4.3.2.
 
 The framework of In-situ synthesis of a functional microbiome.
 
