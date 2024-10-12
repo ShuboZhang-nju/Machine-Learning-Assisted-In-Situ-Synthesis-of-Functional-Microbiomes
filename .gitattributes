@@ -1,0 +1,4 @@
+OTU[[:space:]]data filter=lfs diff=lfs merge=lfs -text
+otu_table_g.rar filter=lfs diff=lfs merge=lfs -text
+otu_table_g.xlsx filter=lfs diff=lfs merge=lfs -text
+toxonomy.xlsx filter=lfs diff=lfs merge=lfs -text
