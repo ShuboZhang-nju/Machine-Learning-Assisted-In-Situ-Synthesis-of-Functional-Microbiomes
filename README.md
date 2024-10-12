@@ -10,8 +10,11 @@ The framework of In-situ synthesis of a functional microbiome.
 
 ![image](https://github.com/user-attachments/assets/d93d145d-1724-4eaf-9bf4-a9526f9463ea)
 
-![image](https://github.com/user-attachments/assets/eefe7ad5-501b-4b95-9408-b9dc3ec79e79)
 Keystone species identification based on the cNODE2 deep learning framework.
 
-![image](https://github.com/user-attachments/assets/59cbfa37-aac3-4f82-94bf-aeae7736e37f)
+![image](https://github.com/user-attachments/assets/eefe7ad5-501b-4b95-9408-b9dc3ec79e79)
+
 A machine learning-assisted optimal microhabitat identification framework based on community synergy index (CSI)
+
+![image](https://github.com/user-attachments/assets/59cbfa37-aac3-4f82-94bf-aeae7736e37f)
+
