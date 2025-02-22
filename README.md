@@ -1,4 +1,4 @@
-# Machine-Learning-Assisted-In-Situ-Synthesis-of-Functional-Microbiomes
+# Machine Learning Assisted In-Situ Synthesis of Functional Microbiomes towards Sustainable Wastewater Treatment
 Shubo Zhang, Sai Gong, Jinfeng Wang, Ran Yin, Yanru Wang, and Hongqiang Rena
 
 State Key Laboratory of Pollution Control and Resource Reuse, School of the Environment, Nanjing University, Nanjing 210023, Jiangsu, P.R. China
@@ -8,11 +8,13 @@ This library is for “Machine Learning Assisted In-Situ Synthesis of Functional
 
 The framework of In-situ synthesis of a functional microbiome.
 
-![image](https://github.com/user-attachments/assets/d93d145d-1724-4eaf-9bf4-a9526f9463ea)
+![toc改](https://github.com/user-attachments/assets/99dbf361-759c-4f0b-b551-16637d61efa6)
+
 
 Keystone species identification based on the cNODE2 deep learning framework.
 
-![image](https://github.com/user-attachments/assets/eefe7ad5-501b-4b95-9408-b9dc3ec79e79)
+![image](https://github.com/user-attachments/assets/7bfa7fa2-dbfb-48eb-873f-3b33977964ef)
+
 
 A machine learning-assisted optimal microhabitat identification framework based on community synergy index (CSI)
 
